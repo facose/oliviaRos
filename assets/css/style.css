@@ -1,0 +1,30 @@
+header {
+    background-image: url('../img/bg-hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carousel-indicators {
+    top: 50px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.card-img-top {
+    width: 100%;
+    min-height: 15vw;;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #0F0F0F;
+    color: white;
+    margin: 2% 0 0 0;
+    padding: 2%;
+    text-align: center;
+    vertical-align: middle;
+}
